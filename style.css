@@ -158,6 +158,9 @@ header label{
     float: left;
     margin-left: 5%;
 }
+.menu{
+    height:0.75cm;
+}
 .home_feature_box img{
     height: 2cm;
 }

@@ -158,9 +158,6 @@ header label{
     float: left;
     margin-left: 5%;
 }
-.menu{
-    height:0.7cm;
-}
 .home_feature_box img{
     height: 2cm;
 }
@@ -743,6 +740,7 @@ header label{
     }
     header {
         padding: 20px;
+        width:100%;
     }
     header label {
         display: inline;
@@ -780,8 +778,8 @@ header label{
         width: 100%;
     }
     .menu{
-    height:1cm;
-     }
+        height: 1.2cm;
+    }
     .pt2{
         margin-bottom:50px ;
     }

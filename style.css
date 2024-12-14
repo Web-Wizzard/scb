@@ -779,7 +779,9 @@ header label{
         background-size:auto;
         width: 100%;
     }
-    
+    .menu{
+    height:0.7cm;
+     }
     .pt2{
         margin-bottom:50px ;
     }
